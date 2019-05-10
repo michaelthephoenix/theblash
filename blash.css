@@ -1,0 +1,22 @@
+/* body {
+    background-color: blueviolet;
+} */
+
+p {
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-size: 34px;    
+}
+button {
+    align-content: center;
+    justify-content: center;
+}
+
+.container {
+
+}
+
+.cont2 {
+    display: flexbox;
+    justify-content: center;
+}
