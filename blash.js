@@ -13,5 +13,6 @@ var soundtrack = document.getElementById("soundtrack");
 
 function playSoundtrack() {
     soundtrack.play();
+    soundtrack.volume = 0.3;
 }
 
