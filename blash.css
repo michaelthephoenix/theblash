@@ -13,3 +13,8 @@ p {
     display: flex;
     justify-content: center;
 }
+
+button{
+    position: absolute;
+    left: 45%;
+}
