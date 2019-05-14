@@ -1,6 +1,6 @@
 let button1 = document.getElementById('btn1');
 let txtarea = document.getElementById('textarea');
-let intro = document.getElementById('intro')
+let intro = document.getElementById('intro');
 
 
 button1.addEventListener('click', function(){
@@ -8,3 +8,10 @@ button1.addEventListener('click', function(){
     intro.style.display = 'none';
 
 });
+
+var soundtrack = document.getElementById("soundtrack");
+
+function playSoundtrack() {
+    soundtrack.play();
+}
+
